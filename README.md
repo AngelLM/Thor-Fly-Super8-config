@@ -1,5 +1,5 @@
 # Thor-Fly-Super8-config
-Config files for Fly Super8 board to work with Thor robot arm 
+Config files for [Fly Super8 Pro H723](https://s.click.aliexpress.com/e/_oCV0wt5) board to work with Thor robot arm.
 
 
 # Setup
