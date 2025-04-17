@@ -12,3 +12,6 @@ Config files for [Fly Super8 Pro H723](https://s.click.aliexpress.com/e/_oCV0wt5
 6. You are done! The setup should be completed.
 
 If you have any problems during the installation or configuration process I recommend you take a look at [this video](https://www.youtube.com/watch?v=WhMw1xyyEsU)
+
+# Wiring
+<p align="center"><img src="docs/thor-wiring-fly-super8.png"></p>
